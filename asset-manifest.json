@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/web-impact/static/css/main.2d3e0b67.css",
+    "main.js": "/web-impact/static/js/main.22c13fd4.js",
+    "static/js/453.bc9f7135.chunk.js": "/web-impact/static/js/453.bc9f7135.chunk.js",
+    "index.html": "/web-impact/index.html",
+    "main.2d3e0b67.css.map": "/web-impact/static/css/main.2d3e0b67.css.map",
+    "main.22c13fd4.js.map": "/web-impact/static/js/main.22c13fd4.js.map",
+    "453.bc9f7135.chunk.js.map": "/web-impact/static/js/453.bc9f7135.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d3e0b67.css",
+    "static/js/main.22c13fd4.js"
+  ]
+}
