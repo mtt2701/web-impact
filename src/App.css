@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  margin-top: 5vh;
+}
+
+.input {
+  display: inline-flex;
+}
+
+input {
+  border: 2px solid black;
+  border-radius: 15px;
+  padding: 10px 30px 10px 10px;
+}
+
+button {
+  background-color: rgb(31, 113, 221);
+  border: none;
+  color: white;
+  border-radius: 15px;
+  padding: 10px 20px;
+  margin-left: 10px;
+}
+
+.toDos {
+  margin-top: 10vh;
+}
